@@ -3027,11 +3027,6 @@ textarea.form-control-lg {
   background-color: #198754;
   border-color: #198754;
 }
-.btn-orange:checked{
-  color: white;
-  background-color: #e67b13;
-  border-color: #e67b13;
-}
 .btn-info {
   color: #000;
   background-color: #0dcaf0;
