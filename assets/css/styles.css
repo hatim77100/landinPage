@@ -181,6 +181,14 @@
     margin: -428px auto 40px -335px;
 }
 
+.m-88 {
+    margin: 30px 353px 0 5rem;
+}
+
+.-m-16 {
+    margin: -64px auto -250px 0;
+}
+
 /*---------Height and width-----------*/
 
 .leading-4	{
@@ -348,3 +356,13 @@
     margin: -70px auto 40px -700px;
 }
 
+/* -----------Section6------------------ */
+
+.u-group-1 {
+    min-height: 300px;
+    width: 566px;
+    margin: -77px auto 0 287px;
+    /* background-color: transparent !important; */
+    opacity: 1;
+    background-color: #292d33;
+}
