@@ -159,6 +159,10 @@ line-height: 1.25rem; /* 20px */
     margin-top: -7rem;
 }
 
+.-m-18-auto-10-175 {
+    margin: -4.5rem auto 2.5rem -43.75rem;
+};
+
 .-mt-64	{
     margin-top: -14rem;
 }
@@ -339,6 +343,10 @@ line-height: 1.25rem; /* 20px */
     width: 50%;
 }
 
+.w-1-3	{
+    width: 33.333333%;
+}
+
 /*---------Display------------*/
 
 .block {
@@ -383,6 +391,9 @@ line-height: 1.25rem; /* 20px */
     opacity: 0.05
 }
 
+.opacity-90 {
+    opacity: 0.9;
+}
 /*............flex------------*/
 
 .flex {
@@ -429,14 +440,18 @@ line-height: 1.25rem; /* 20px */
     min-height: 100%;
 }
 
-.uppercase	{
-    text-transform: uppercase;
+.min-h-min-3-6	{
+    min-height: 33%
 }
 
-/*------------Words--------------*/
+/*------------Words&Text--------------*/
 
 .break-words {
     overflow-wrap: break-word;
+}
+
+.uppercase	{
+    text-transform: uppercase;
 }
 
 /*------------- Borders ------------ */
@@ -454,29 +469,11 @@ line-height: 1.25rem; /* 20px */
     border-color: #e67b13;
 }
 
-.bg-left-top	{
-    min-height: 300px;
-    background-position:left;
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin: -70px auto 40px -700px;
-}
-
-/* -----------Section6------------------ */
-
-.u-group-1 {
-    min-height: 300px;
-    width: 466px;
-    opacity: 0.9;
-    background-color: #292d33;
-}
-
 /*-------------- Colors -------------------*/
 
 .text-orange {
     color: #e0c2a3;    
 }
-
 
 
 /*---------- For watch later ------*/
