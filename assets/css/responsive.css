@@ -1,5 +1,5 @@
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 576px) {
 
     html,body {
         width: 100%;
@@ -9,24 +9,41 @@
         overflow-x: hidden;
     }
 
-    /*---------- Font --------------*/
+    /*---------- Font ------------------*/
+    
+     .sm-font-open {
+        font-family: 'open sans', sans-serif;
+     }
+
+    /*---------- Font-Size --------------*/
 
     .sm-text-lg	{
         font-size: 1.125rem;
     }
 
-    .sm-text-base	{
+    .sm-text-base {
         font-size: 1rem; 
         line-height: 1.6rem; 
     }
+
+    .sm-text-2xl {
+        font-size: 1.5rem; /* 24px */
+        line-height: 2rem;
+    }
+    
     .sm-text-3xl {
         font-size: 1.875rem;
     }
+
     .sm-text-6xl {
         font-size: 3.75rem;
     }
 
     /*----- Height And Width -------*/
+
+    .sm-w-auto {
+        width: auto;
+    }
 
     .sm-h-28 {
         height: 447px;  
@@ -52,19 +69,84 @@
         height: 9.5rem;
     }
 
+    .sm-h-48 {
+        height: 12rem;
+    }
+
+    .sm-h-60 {
+        height: 15rem;
+    }
+
     .sm-w-55 {
         width: 13.75rem;
     }
 
     .sm-w-58 {
-        width: 16.5rem;
+        width: 14.6rem;
     }
 
     .sm-h-39 {
-        height: 9.875 rem;
+        height: 9.875rem;
     }
 
+    .sm-w-119 {
+        max-width: 29.75rem;
+    }
+
+    .sm-h-204 {
+        height: 51rem;
+    }
+
+    .sm-w-106 {
+        width: 26.5rem;
+    }
+
+    .sm-h-132 {
+        height: 33rem;
+    }
+
+    .sm-w-85 {
+        width: 21.25rem;
+    }
+
+    .sm-h-43 {
+        height: 10.9rem;
+    }
+
+    .sm-w-79 {
+        width: 19.75rem;
+    }
+
+    .sm-h-58 {
+        height: 14.5rem;
+    }
+
+    .sm-h-94 {
+        height: 23.5rem;
+    }
+
+
     /*-------- Margin -------------*/
+
+    .sm-m-auto {
+        margin-right: auto;
+    }
+
+    .sm-m-0 {
+        margin: 0px;
+    }
+
+    .sm-m-8 {
+        margin: 0 2rem;
+    }
+
+    .sm-m-12 {
+        margin: 3rem;
+    }
+    
+    /* .sm-mt-4 {
+        margin-top: 1px;
+    } */
 
     .sm-mt-20 {
         margin-top: 5rem;
@@ -72,8 +154,16 @@
  
     .-sm-mt-12 {
         margin-top: -3rem;
-    } 
-     
+    }
+    
+    .-sm-mt-22 {
+        margin-top: -5.5rem;
+    }
+
+    .-sm-mt-28 {
+        margin-top: -7rem
+    }
+
     .-sm-mt-40 {
             margin-top: -10rem;
     }
@@ -86,17 +176,41 @@
         margin-left: 2rem;
     }
 
-    .sm-mx-12 {
-        margin-left: 3rem;
-        margin-right: 2rem;
-    }
-
     .sm-ml-12 {
         margin-left: 3rem;
     }
 
     .sm-ml-13 {
         margin-left: 3.25rem;   
+    }
+
+    .sm-ml-16 {
+        margin-left: 4rem;
+    }
+
+    .sm-mr-12 {
+        margin-right: 3rem;
+    }
+
+    .sm-mr-16 {
+        margin-right: 4rem;
+    }
+
+    .sm-mr-20 {
+        margin-right: 5rem;
+    }
+
+    .sm-mb-20 {
+        margin-bottom: 5rem;
+    }
+
+    .sm-mb-10 {
+        margin-bottom: 2.5rem;
+    }
+
+    .sm-mx-12 {
+        margin-left: 3rem;
+        margin-right: 2rem;
     }
 
     .sm-y-8 {
@@ -125,21 +239,21 @@
         justify-content: center;
     }
 
-    .sm-grid {
-        display: grid;
-    }
-    
-    .sm-grid-rows-2 {
-        grid-template-rows: repeat(2, minmax(0, 1fr));
-    }
-    
     /*-----------Display ------------*/
 
-        .sm-non {
+    .sm-none {
             display: none;
         }
 
-   
+    /*-----------Position -----------*/
+
+    .sm-z-0 {
+        z-index: 0;
+    }
+
+    .sm-z-10 {
+        z-index: 10;
+    }
 }
 
 @media screen and (min-width: 768px) {
