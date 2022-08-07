@@ -44,92 +44,111 @@
     .sm-w-auto {
         width: auto;
     }
-
-    .sm-h-28 {
-        height: 447px;  
-    }
-
+    
     .sm-w-27 {
         width: 420px;
     }
-
+    
     .sm-w-13 {
         width: 13rem; /* 208px */
     }
-
+    
     .sm-w-68 {
         width: 16rem;
     }
-
-    .sm-h-107 {
-        height: 26.75rem;
-    }
-
-    .sm-h-38 {
-        height: 9.5rem;
-    }
-
-    .sm-h-48 {
-        height: 12rem;
-    }
-
-    .sm-h-60 {
-        height: 15rem;
-    }
-
+    
     .sm-w-55 {
         width: 13.75rem;
     }
-
+    
     .sm-w-58 {
         width: 14.6rem;
     }
 
-    .sm-h-39 {
-        height: 9.875rem;
+    .sm-w-61 {
+        width: 15.25rem;
     }
-
-    .sm-w-119 {
-        max-width: 29.75rem;
-    }
-
-    .sm-h-204 {
-        height: 51rem;
-    }
-
-    .sm-w-106 {
-        width: 26.5rem;
-    }
-
-    .sm-h-132 {
-        height: 33rem;
+    
+    .sm-w-79 {
+        width: 19.75rem;
     }
 
     .sm-w-85 {
         width: 21.25rem;
     }
-
+    
+    .sm-w-106 {
+        width: 26.5rem;
+    }
+    
+    .sm-w-119 {
+        max-width: 29.75rem;
+    }
+    
+    .sm-h-38 {
+        height: 9.5rem;
+    }
+    
+    .sm-h-39 {
+        height: 9.875rem;
+    }
+        
     .sm-h-43 {
         height: 10.9rem;
     }
 
-    .sm-w-79 {
-        width: 19.75rem;
+    .sm-h-48 {
+        height: 12rem;
     }
-
+    
     .sm-h-58 {
         height: 14.5rem;
+    }
+    
+    .sm-h-60 {
+        height: 15rem;
+    }
+
+    .sm-h-64 {
+        height: 16rem;
+    }
+
+    .sm-h-75 {
+        height: 18.75rem;
+    }
+
+    .sm-h-78 {
+        height: 19.5rem;
     }
 
     .sm-h-94 {
         height: 23.5rem;
     }
 
+    .sm-h-107 {
+        height: 26.75rem;
+    }    
+
+    .sm-h-28 {
+        height: 28rem;  
+    }    
+    
+    .sm-h-132 {
+        height: 33rem;
+    }    
+
+    .sm-h-204 {
+        height: 51rem;
+    }    
 
     /*-------- Margin -------------*/
 
     .sm-m-auto {
         margin-right: auto;
+    }
+
+    .sm-m-7 {
+        margin: -1rem 1rem ;
     }
 
     .sm-m-0 {
@@ -172,6 +191,10 @@
         margin-left: -1rem;
     }
 
+    .sm-ml-6 {
+        margin-left: 1.5rem;
+    }
+
     .sm-ml-7 {
         margin-left: 2rem;
     }
@@ -206,6 +229,10 @@
 
     .sm-mb-10 {
         margin-bottom: 2.5rem;
+    }
+
+    .-sm-mb-4{
+        margin-bottom: -1rem;
     }
 
     .sm-mx-12 {
