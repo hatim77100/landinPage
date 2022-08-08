@@ -305,6 +305,11 @@ line-height: 1.25rem; /* 20px */
     margin-right: 17.5rem; /* 176px */
 }
 
+.mx-16-60	{
+    margin-left: 4rem; /* 176px */
+    margin-right: 15rem; /* 176px */
+}
+
 .mx-80-80 {
     margin-left: 20rem;
     margin-right: 20rem;
@@ -376,6 +381,10 @@ line-height: 1.25rem; /* 20px */
     display: block;
 }
 
+.inline {
+    display: inline;
+}
+
 .overflow-x-hidden	{
     overflow-x: hidden;
 }
@@ -412,6 +421,10 @@ line-height: 1.25rem; /* 20px */
 
 .opacity-5	{
     opacity: 0.05
+}
+
+.opacity-80 {
+    opacity: 0.8;
 }
 
 .opacity-90 {
@@ -480,7 +493,6 @@ line-height: 1.25rem; /* 20px */
     color: #e0c2a3;    
 }
 
-
 /*---------- For watch later ------*/
 
 /* .img-4 {
@@ -489,8 +501,3 @@ line-height: 1.25rem; /* 20px */
     background-position: center center; 
     background-size: cover;
 } */
-
-.left {
-    left: 0;
-    right: 0;
-}
