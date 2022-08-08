@@ -8,24 +8,13 @@
     font-family: 'Open Sans' ,sans-serif;
 }
 
-.text-5xl {
-    font-size: 3rem;
-}
-
-.text-7xl {
-    font-size: 4.5rem; /* 72px */   
-}
-
-.text-sm {font-size: 0.875rem; /* 14px */
-line-height: 1.25rem; /* 20px */
+.text-sm {
+    font-size: 0.875rem; /* 14px */
+    line-height: 1.25rem; /* 20px */
 }
 
 .text-base	{
     font-size: 1rem; 
-}
-
-.font-normal	{
-    font-weight: 400;
 }
 
 .text-lg	{
@@ -41,6 +30,18 @@ line-height: 1.25rem; /* 20px */
 .text-4xl	{
     font-size: 2.25rem; /* 36px */
     line-height: 2.5rem; /* 40px */
+}
+
+.text-5xl {
+    font-size: 3rem;
+}
+
+.text-7xl {
+    font-size: 4.5rem; /* 72px */   
+}
+
+.font-normal	{
+    font-weight: 400;
 }
 
 /*----------Background-----------*/
