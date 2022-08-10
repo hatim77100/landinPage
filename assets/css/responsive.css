@@ -555,17 +555,20 @@
     }
 
     /*--------- Font-Size --------*/
-
-    .xl-text-7xl {
-        font-size: 4.5rem; /* 72px */   
+    
+    .xl-text-lg	{
+        font-size: 1.125rem;
+        line-height: 1.75rem;
     }
 
     .xl-text-3xl {
         font-size: 1.875rem;
     }
-
     
-
+    .xl-text-7xl {
+        font-size: 4.5rem; /* 72px */   
+    }
+    
     /*--------- Margin -----------*/
 
     .xl-m-0 {
@@ -574,6 +577,10 @@
 
     .xl-ml-0 {
         margin-left: 0;
+    }
+
+    .xl-ml-24 {
+        margin-left: 6rem;
     }
 
     .xl-mt-4 {
