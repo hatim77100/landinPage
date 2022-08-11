@@ -18,8 +18,11 @@ et de l'envoyer sur une branche secondaire de github. pour au final de me mettre
 # Les outils utilisés
 
 . HTML
+
 . CSS
+
 . Bootstrap
+
 . TailwindCSS
 
 ## Color Reference
