@@ -6,9 +6,13 @@ et de l'envoyer sur une branche secondaire de github. pour au final de me mettre
 
 # Les étapes:
 . inspécter la landing page pour voir l'architécture HTML du site, ainsi que les propriétés CSS utilisé.
+
 . se documenter en ce qui concerne bootstrap.
+
 . j'ai commencé par la réalisation de la version desktop.
+
 . j'ai réalisé la version mobile.
+
 . j'ai réalisé la version tablet.
 
 # Les outils utilisés
