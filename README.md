@@ -2,7 +2,7 @@
 # Project landing page:
 
 -Le but c'était de reproduire une landing page statique responsive entre mobile, tablet, desktop. 
-et de l'envoyer sur une branche secondaire de github. pour au final de me mettre sur un serveur distant.
+et de l'envoyer sur une branche secondaire de github. pour au final de la mettre sur un serveur distant.
 
 # Les étapes:
 . inspécter la landing page pour voir l'architécture HTML du site, ainsi que les propriétés CSS utilisé.
