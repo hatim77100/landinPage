@@ -1,5 +1,5 @@
 
-# Project Title
+# Project landing page:
 
 -Le but c'était de reproduire une landing page statique responsive entre mobile, tablet, desktop. 
 et de l'envoyer sur une branche secondaire de github. pour au final de me mettre sur un serveur distant.
@@ -15,7 +15,7 @@ et de l'envoyer sur une branche secondaire de github. pour au final de me mettre
 
 . j'ai réalisé la version tablet.
 
-# Les outils utilisés
+# Les outils utilisés:
 
 . HTML
 
@@ -25,7 +25,7 @@ et de l'envoyer sur une branche secondaire de github. pour au final de me mettre
 
 . TailwindCSS
 
-## Color Reference
+## Color Reference:
 
 | Color       | Hex        |
 | -----------| ----------|
@@ -34,6 +34,6 @@ et de l'envoyer sur une branche secondaire de github. pour au final de me mettre
 | gray-700  | #292d33   |
 | gray-800  | #292a33 |
 
-## Documentation
+## Documentation:
 
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
