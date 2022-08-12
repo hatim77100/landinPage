@@ -9,11 +9,11 @@ et de l'envoyer sur une branche secondaire de github. pour au final de la mettre
 
 . se documenter en ce qui concerne bootstrap.
 
-. j'ai commencé par la réalisation de la version desktop.
+. la réalisation de la version desktop.
 
-. j'ai réalisé la version mobile.
+. la réalisation de la version mobile.
 
-. j'ai réalisé la version tablet.
+. la réalisation de la version tablet.
 
 # Les outils utilisés:
 
