@@ -37,3 +37,11 @@ et de l'envoyer sur une branche secondaire de github. pour au final de la mettre
 ## Documentation:
 
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+## Résultats Gtmetrix :
+
+.Grade : A.
+
+.Performance: 92%.
+
+.Structure: 89%.
